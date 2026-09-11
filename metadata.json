@@ -1,0 +1,6 @@
+{
+  "name": "AutoBrowser",
+  "description": "Intelligent automated web browser compatible with mobile, tablet, and Android Automotive OS head units. Features customizable auto-refresh timers, smooth hands-free auto-scrolling, URL playlist cycling, script automation, and in-car parked browsing mode.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

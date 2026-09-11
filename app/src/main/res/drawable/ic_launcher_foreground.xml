@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:aapt="http://schemas.android.com/aapt"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Browser window outline -->
+    <path
+        android:strokeColor="#38BDF8"
+        android:strokeWidth="2.5"
+        android:strokeLineCap="round"
+        android:strokeLineJoin="round"
+        android:fillColor="#151E3A"
+        android:pathData="M 28,30 C 28,26.5 30.5,24 34,24 L 74,24 C 77.5,24 80,26.5 80,30 L 80,78 C 80,81.5 77.5,84 74,84 L 34,84 C 30.5,84 28,81.5 28,78 Z" />
+
+    <!-- Browser top header line -->
+    <path
+        android:strokeColor="#38BDF8"
+        android:strokeWidth="1.5"
+        android:pathData="M 28,36 L 80,36" />
+
+    <!-- Browser window control dots -->
+    <path
+        android:fillColor="#EF4444"
+        android:pathData="M 33,30 m -2,0 a 2,2 0 1,0 4,0 a 2,2 0 1,0 -4,0" />
+    <path
+        android:fillColor="#FBBF24"
+        android:pathData="M 39,30 m -2,0 a 2,2 0 1,0 4,0 a 2,2 0 1,0 -4,0" />
+    <path
+        android:fillColor="#10B981"
+        android:pathData="M 45,30 m -2,0 a 2,2 0 1,0 4,0 a 2,2 0 1,0 -4,0" />
+
+    <!-- Center Globe Silhouette -->
+    <path
+        android:strokeColor="#818CF8"
+        android:strokeWidth="1.8"
+        android:fillColor="#1E293B"
+        android:pathData="M 54,58 m -15,0 a 15,15 0 1,0 30,0 a 15,15 0 1,0 -30,0" />
+    <path
+        android:strokeColor="#818CF8"
+        android:strokeWidth="1.2"
+        android:fillColor="#00000000"
+        android:pathData="M 39,58 L 69,58" />
+    <path
+        android:strokeColor="#818CF8"
+        android:strokeWidth="1.2"
+        android:fillColor="#00000000"
+        android:pathData="M 54,43 C 50,48 50,68 54,73 C 58,68 58,48 54,43 Z" />
+
+    <!-- Circular Automation Orbit Arrow (Rotating Loop) -->
+    <path
+        android:strokeColor="#06B6D4"
+        android:strokeWidth="2.8"
+        android:strokeLineCap="round"
+        android:fillColor="#00000000"
+        android:pathData="M 54,40 C 64,40 72,48 72,58 C 72,66 66.5,73 59,75.5" />
+    <!-- Arrowhead -->
+    <path
+        android:fillColor="#06B6D4"
+        android:pathData="M 58,36 L 52,41 L 59,45 Z" />
+
+    <!-- Lightning / Automation Bolt inside globe -->
+    <path
+        android:fillColor="#FACC15"
+        android:pathData="M 55,49 L 50,58 L 54,58 L 53,67 L 59,57 L 55,57 Z" />
+</vector>
